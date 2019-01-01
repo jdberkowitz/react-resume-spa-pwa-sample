@@ -3,7 +3,11 @@
 [![Build Status](https://travis-ci.org/crsandeep/simple-react-full-stack.svg?branch=master)](https://travis-ci.org/crsandeep/simple-react-full-stack)
 [![Greenkeeper badge](https://badges.greenkeeper.io/crsandeep/simple-react-full-stack.svg)](https://greenkeeper.io/)
 
-This is a boilerplate to build a full stack web application using React, Node.js, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel.
+Boilerplate by CRSANDEEP was used to quickly build this resume app. The boilerplate allows you to quickly build a full stack web application using React, Node.js, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel.
+
+
+
+## Details on Boilerplate Usage
 
 - [simple-react-full-stack](#simple-react-full-stack)
   - [Introduction](#introduction)
@@ -22,7 +26,7 @@ This is a boilerplate to build a full stack web application using React, Node.js
     - [VSCode + ESLint + Prettier](#vscode--eslint--prettier)
       - [Installation guide](#installation-guide)
 
-## Introduction
+## Introduction to Boilerplate 
 
 [Create React App](https://github.com/facebook/create-react-app) is a quick way to get started with React development and it requires no build configuration. But it completely hides the build config which makes it difficult to extend. It also requires some additional work to integrate it with an existing Node.js/Express backend application.
 

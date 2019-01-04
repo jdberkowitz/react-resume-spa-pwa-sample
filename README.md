@@ -5,6 +5,7 @@
 
 Boilerplate by CRSANDEEP was used to quickly build this resume app. The boilerplate allows you to quickly build a full stack web application using React, Node.js, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel.
 
+# I have to come back to add the proper comments
 
 
 ## Details on Boilerplate Usage
